@@ -1,24 +1,5 @@
-# README
+# Ruby on Rails Project: pinterested
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is being made based on my following of the *Learn Ruby on Rails for Web Development* by John Elder.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please see my [My Heroku App](https://murmuring-everglades-89237.herokuapp.com/).
